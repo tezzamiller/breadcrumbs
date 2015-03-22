@@ -16,7 +16,7 @@
         ],
         "psr-4": {
             "tezzamiller\\breadcrumbs\\": "src",
-            "tezzamiller\\breadcrumbs\\src\\Email"
+            "tezzamiller\\breadcrumbs\\src\\": "Email"
         }
     },
     "minimum-stability": "stable"

@@ -15,7 +15,8 @@
         "classmap": [
         ],
         "psr-4": {
-            "tezzamiller\\breadcrumbs\\": "src"
+            "tezzamiller\\breadcrumbs\\": "src",
+            "tezzamiller\\breadcrumbs\\src\\Email"
         }
     },
     "minimum-stability": "stable"
